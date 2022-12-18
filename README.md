@@ -1,0 +1,2 @@
+# terenni-stupen
+Bakalarska prace
